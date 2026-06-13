@@ -1,7 +1,7 @@
 <x-layout>
 
     <x-slot:title>
-        Home
+        Welcome
     </x-slot:title>
 
     <div class="max-w-2xl mx-auto">
